@@ -1,4 +1,4 @@
-![](./images/background.gif)
+![](https://github.com/VictorMeneghini/VictorMeneghini/blob/master/images/background.gif)
 
 ### ようこそ (:
 

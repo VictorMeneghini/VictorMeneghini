@@ -1,4 +1,10 @@
-### Hi there 👋
+![](./images/background.gif)
+
+### ようこそ (:
+
+I'm Victor Meneghini. I am a web developer from Brasil  🇧🇷.
+
+
 
 <!--
 **VictorMeneghini/VictorMeneghini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

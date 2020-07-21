@@ -2,7 +2,7 @@
 
 ### ようこそ (:
 
-I'm Victor Meneghini. I am a web developer from Brasil  🇧🇷.
+I'm Victor Meneghini a web developer from Brasil  🇧🇷.
 
 
 

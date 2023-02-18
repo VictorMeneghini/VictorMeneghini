@@ -5,7 +5,7 @@
 I'm a software developer and a lifelong learner focused on web technologies. I started my career when I was doing my bachelor's degree in information systems wherein the second period I got my first internship as a web developer and since that first experience, I never stopped working in the development area.
 
 
-## Technologies I've been using over the years
+## Languages and Frameworks I've been using over the years
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript.js-EEE600?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -26,6 +26,10 @@ I'm a software developer and a lifelong learner focused on web technologies. I s
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Django-blue?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Jest-blue?style=flat-square&logo=Jest&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=Gitlab&logoColor=white" />
 </p>
 
 
